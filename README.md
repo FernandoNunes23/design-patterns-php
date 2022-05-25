@@ -1,6 +1,7 @@
 # Design Patterns implemented with PHP
 
-Here I'm implementing the design patterns with PHP using a game development context :D.<br />
+Here I'm implementing the design patterns with PHP using a game development theme and explaining how it
+fits with the SOLID principle.<br />
 Here is the design patterns that I'm implementing here:
 ### Behavioral Patterns
 - Chain of Responsibility (Not Implemented Yet)
