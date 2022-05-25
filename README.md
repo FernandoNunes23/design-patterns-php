@@ -10,7 +10,7 @@ Here is the design patterns that I'm implementing here:
 - Memento (Not Implemented Yet)
 - Observer (Not Implemented Yet)
 - State (Not Implemented Yet)
-- Strategy (Not Implemented Yet)
+- Strategy
 - Template Method (Not Implemented Yet)
 - Visitor (Not Implemented Yet)
 
