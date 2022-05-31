@@ -17,7 +17,7 @@ Here is the design patterns that I'm implementing here:
 
 ### Creational Patterns
 - Factory Method  
-- Abstract Factory (Not Implemented Yet)
+- Abstract Factory
 - Builder (Not Implemented Yet)
 - Prototype (Not Implemented Yet)
 - Singleton (Not Implemented Yet)
